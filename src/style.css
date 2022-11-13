@@ -1,0 +1,47 @@
+*{
+    background-image: url("https://i0.wp.com/css-tricks.com/wp-content/uploads/2017/09/guide-gradeint.png?fit=1200%2C600&ssl=1");
+    
+   
+}
+
+input{
+    width: 200px;
+    height: 60px;
+    color: rgb(245, 245, 245);
+     font-family:fantasy;
+     font-size: medium;
+    box-sizing: border-box;
+    box-shadow: 0 0  5px 2px;
+    
+}
+button{
+    
+    padding: 5px;
+    margin: 5px;
+    box-sizing: border-box;
+    margin-top: 444px;
+     padding: 9px 14px;
+     border-radius: 22px;
+     color: white;
+     font-weight: bold;
+     font-size: 23px;    
+     margin: 0 3px;
+     cursor: pointer;
+}
+ul{
+    align-items: center;
+    text-align: center;
+    font-family: fantasy;
+    font-size: medium;
+    font-style: italic;
+
+}
+li{
+    display: inline-block;
+    text-align: left;
+}
+h2{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-style: italic;
+}
+ 
